@@ -1,4 +1,4 @@
-const urlBase = "http://localhost:8000/api/videojuegos"; // Cambia esto a /api/videogames si ya lo renombraste
+const urlBase = "https://api-videojuegos-mysql.onrender.com/api/videojuegos"; // Cambia esto a /api/videogames si ya lo renombraste
 
 // Crear nuevo videojuego
 function postVideogame() {
